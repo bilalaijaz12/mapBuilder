@@ -32,7 +32,7 @@ function MapComponent() {
   const [noParcelFound, setNoParcelFound] = useState(false)
 
   const defaultOptions = {
-    mapId: '4845371e8c27f409',
+    mapId: 'Vector Map ID',
     tilt: 75,
     heading: 0,
     mapTypeId: 'roadmap',
