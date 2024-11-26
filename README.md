@@ -6,8 +6,8 @@ MapBuilder is a web application that helps users visualize and analyze potential
 
 - Interactive 3D map visualization
 - Address search functionality
-- Parcel data visualization with color-coding:
-  - Green: Empty plots available for development
+- Parcel data visualization with color-coding: // in development phase, not implemented as of yet
+  - Green: Empty plots available for development 
   - Red: Occupied plots
   - Blue: Selected parcels
 - Detailed property analysis including:
